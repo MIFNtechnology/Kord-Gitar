@@ -1,0 +1,83 @@
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.7;
+    background-color: #f4f4f4;
+    color: #333;
+    background-image: url('../img/pngtree-abstract-musical-notes-flowing-in-air-image_21316854.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+/* Header Styling */
+header {
+    background-color: #333;
+    color: #87DE2E;
+    text-align: center;
+    padding: 0px;
+}
+header h1 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+header p {
+    font-size: 1.0em;
+}
+
+/* Main Section */
+main {
+    padding: 5px;
+}
+
+/* Song Section */
+#songs {
+    margin-bottom: 220px;
+}
+#songs h2 {
+    font-size: 1.3em;
+    margin-top: 0.01px;
+    margin-bottom: 0px;
+}
+#songs p {
+    font-size: 0.8em;
+    margin-top: 0.01px;
+    margin-bottom: 0px;
+}
+#songs a {
+    color: #0026FF;
+    text-decoration: none;
+}
+
+/* Chords Section */
+#chords, #about{
+    margin-bottom: 0px;
+}
+#chords h2, #about h2{
+    font-size: 0.9em;
+    margin-top: 0.01px;
+    margin-bottom: 0px;
+}
+#chords p, #about p{
+    font-size: 0.8em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: ;
+    color: #000000;
+    text-align: center;
+    padding: 0px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+footer p {
+    font-size: 0.5em;
+    background-color: #BCBCBC;
+    color: #000000;
+    text-align: center;
+    padding: 1px;
+    margin-top: 0px;
+}
