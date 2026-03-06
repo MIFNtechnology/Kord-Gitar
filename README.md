@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="css/style.css">
-<body>
    <header>
    <h1>KORD-GITAR</h1>
    <p>@mifntechnology</p>
@@ -30,13 +28,9 @@
    </section>
    </main>
 
-   <h2>Notis</h2>
+   <h3>Notis</h3>
    <footer>
    <p><em>Notis Hak Cipta:</em> 
 Lirik dan kord lagu yang disediakan di laman web ini bertujuan untuk tujuan rujukan pendidikan dan peribadi sahaja. Semua hak ke atas lirik dan muzik kekal dengan artis asal, penulis lagu dan pemegang hak cipta masing-masing. Laman web ini tidak menuntut pemilikan atau sokongan terhadap mana-mana bahan berhak cipta yang dipaparkan di sini, dan semua kandungan dikongsi mengikut garis panduan penggunaan adil.</p>
    </footer>
 
-   <h3>JS</h3>
-<script src="js/script.js">
-</script>
-</body>
