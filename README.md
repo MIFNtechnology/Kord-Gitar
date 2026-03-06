@@ -6,14 +6,14 @@
  <!-- Songs Section with New Link -->
    <section id="songs">
    <h2>Kord Lagu</h2>
-   <p><a href="KordLagu/Aishah-Pulanglah.html">Aishah-Pulanglah</a></p>
-   <p><a href="KordLagu/RahimahRahim-Doa.html">RahimahRahim-Doa</a></p>
-   <p><a href="KordLagu/JamalAbdillah-DipenghujungRindu.html">JamalAbdillah-DipenghujungRindu</a></p>
-   <p><a href="KordLagu/Once-Dealova.html">Once–Dealova</a></p>
-   <p><a href="KordLagu/AyaiIlusi-PuisiCinta.html">AyaiIlusi-PuisiCinta</a></p>
-   <p><a href="KordLagu/AyaiIlusi-SegalanyaKuTerima.html">AyaiIlusi-SegalanyaKuTerima</a></p>
-   <p><a href="KordLagu/Hattan-MenitiPerjalanan.html">Hattan-MenitiPerjalanan</a></p>
-   <p><a href="KordLagu/Search-FantasiaBulanMadu.html">Search-FantasiaBulanMadu</a></p>
+   <p><a href="https://mifntechnology.github.io/Kord-Gitar/KordLagu/Aishah-Pulanglah.html">Aishah-Pulanglah</a></p>
+   <p><a href="https://mifntechnology.github.io/Kord-Gitar/KordLagu/RahimahRahim-Doa.html">RahimahRahim-Doa</a></p>
+   <p><a href="https://mifntechnology.github.io/Kord-Gitar/KordLagu/JamalAbdillah-DipenghujungRindu.html">JamalAbdillah-DipenghujungRindu</a></p>
+   <p><a href="https://mifntechnology.github.io/Kord-Gitar/KordLagu/Once-Dealova.html">Once–Dealova</a></p>
+   <p><a href="https://mifntechnology.github.io/Kord-Gitar/KordLagu/AyaiIlusi-PuisiCinta.html">AyaiIlusi-PuisiCinta</a></p>
+   <p><a href="https://mifntechnology.github.io/Kord-Gitar/KordLagu/AyaiIlusi-SegalanyaKuTerima.html">AyaiIlusi-SegalanyaKuTerima</a></p>
+   <p><a href="https://mifntechnology.github.io/Kord-Gitar/KordLagu/Hattan-MenitiPerjalanan.html">Hattan-MenitiPerjalanan</a></p>
+   <p><a href="https://mifntechnology.github.io/Kord-Gitar/KordLagu/Search-FantasiaBulanMadu.html">Search-FantasiaBulanMadu</a></p>
    </section>
 
 <!-- Other Content Sections -->
