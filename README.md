@@ -1,8 +1,40 @@
-# Kord-Gitar
-Koleksi peribadi lagu dan kord gitar.(kegunaan sendiri)
+<link rel="stylesheet" href="css/style.css">
+<body>
+   <header>
+   <h1>KORD-GITAR</h1>
+   <p>@mifntechnology</p>
+   </header>
+   <main>
+ <!-- Songs Section with New Link -->
+   <section id="songs">
+   <h2>Kord Lagu</h2>
+   <p><a href="lagu/Aishah-Pulanglah.html">Aishah-Pulanglah</a></p>
+   <p><a href="lagu/RahimahRahim-Doa.html">RahimahRahim-Doa</a></p>
+   <p><a href="lagu/JamalAbdillah-DipenghujungRindu.html">JamalAbdillah-DipenghujungRindu</a></p>
+   <p><a href="lagu/Once-Dealova.html">Once–Dealova</a></p>
+   <p><a href="lagu/AyaiIlusi-PuisiCinta.html">AyaiIlusi-PuisiCinta</a></p>
+   <p><a href="lagu/AyaiIlusi-SegalanyaKuTerima.html">AyaiIlusi-SegalanyaKuTerima</a></p>
+   <p><a href="lagu/Hattan-MenitiPerjalanan.html">Hattan-MenitiPerjalanan</a></p>
+   <p><a href="lagu/Search-FantasiaBulanMadu.html">Search-FantasiaBulanMadu</a></p>
+   </section>
 
-## Penggunaan
-Telefon android
+<!-- Other Content Sections -->
+   <section id="chords">
+   <h2>Kord Asas</h2>
+   <p>Ketahui kord yang paling biasa untuk pemula.</p>
+   </section>
 
-## Laman
-https://mifntechnology.github.io/Kord-Gitar/
+   <section id="about">
+   <h2>Mengenai</h2>
+   <p>Senarai lagu dan kord gitar.</p>
+   </section>
+   </main>
+
+   <footer>
+   <h2>Notis</h2>
+   <p><em>Notis Hak Cipta:</em> 
+Lirik dan kord lagu yang disediakan di laman web ini bertujuan untuk tujuan rujukan pendidikan dan peribadi sahaja. Semua hak ke atas lirik dan muzik kekal dengan artis asal, penulis lagu dan pemegang hak cipta masing-masing. Laman web ini tidak menuntut pemilikan atau sokongan terhadap mana-mana bahan berhak cipta yang dipaparkan di sini, dan semua kandungan dikongsi mengikut garis panduan penggunaan adil.</p>
+   </footer>
+<script src="js/script.js">
+</script>
+</body>
