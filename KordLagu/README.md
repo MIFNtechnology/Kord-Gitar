@@ -24,14 +24,10 @@ Copy & create
 <h1 class="post-title">
 <a id="titlehref">PASTE-HERE</a>
 </h1>
-<div id="main-mkd-post">
-<div id="menu-post">
 <div class="container-fontsize">
 <button class="resizefontcss" id="upresize" onclick="resizefont('up')" type="button">▲</button>
 <button class=" nobgcss" id="resizenormal" onclick="resizenormal()" type="button">Font</button>
 <button class="resizefontcss" id="downresize" onclick="resizefont('down')" type="button">▼</button>
-</div>
-<span id="dark-mode-toggle" onclick="toggleDarkMode()">🌙</span>
 </div>
 
 <span id="test1"><pre> 
@@ -40,12 +36,6 @@ Copy & create
  [Intro]
   Em    C   Am    B   Em
   C   Am    B7
-  
-<span onclick="ChordHint(this.textContent,this)">
-
-  PASTE-HERE-EXAMPLE
-   Intro:
-  Dm  A#  Dm  C  Dm
 
   Dm   A
   Hanya padamu Aku Meminta
@@ -54,15 +44,13 @@ Copy & create
   A   Dm
   Ampuni Segala Dosaku
   PASTE-HERE-EXAMPLE
-  
-  
-   
+
+
    By-kaitou_E😎🇲🇾♥️🇵🇸
 
-</span>
 </pre></span>
 
-<button onclick="backHome()">
+<button id="backHome" onclick="backHome()">
       🏠HOME
 </button>
 <button id="googlebutton" onclick="document.body.scrollTop = 0;document.documentElement.scrollTop = 0;" style="text-align:center;" title="Go to top">Go to top</button>
